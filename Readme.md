@@ -1,6 +1,12 @@
 # Project-9
 
-[Live Link](https://ineuron-live-class-project-9.netlify.app/ "Netlify")
+ - ## [Project Live Link](https://ineuron-live-class-project-9.netlify.app/ "Netlify")
+> ### Social Media Links:
+
+- ### [Portfolio Website Link](https://www.findcoder.io/u/atulsinghatul)
+- ### [Linkedin Link](https://www.linkedin.com/in/atul-singh-082529249/)
+- ### [Youtube Link](https://www.youtube.com/channel/UCBNc9Vs9mAFxnAKjzWRqDFQ)
+- ### [Hashnode Link](https://atulsinghatul.hashnode.dev/)
 
 **Project is responsive**
 
@@ -23,4 +29,4 @@
 
 ![Project Screenshot](https://img.shields.io/badge/LiveClass-Project--9-darkblue)
 
-![LCO](./9.png)
+![project-09](https://user-images.githubusercontent.com/112545072/211222943-b4142fe8-a913-40cd-b52d-04e65dd14795.png)
